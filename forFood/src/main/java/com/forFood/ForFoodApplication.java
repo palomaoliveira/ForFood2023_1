@@ -8,6 +8,7 @@ public class ForFoodApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ForFoodApplication.class, args);
+		System.out.println("teste");
 	}
 
 }
